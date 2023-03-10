@@ -1,0 +1,126 @@
+.navBar{
+    display: flex;
+    background-color: darkred;
+    justify-content: space-between;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.logo a{
+    text-decoration: none;
+    color: white;
+}
+
+.menu a{
+
+    color: white;
+    text-decoration: none;
+}
+.main-news{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color:rgb(185, 185, 255);
+}
+.image img{
+    width: 650px;
+}
+.text{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+.blocks{
+    display: flex;
+    justify-content: space-between;
+
+}
+.first-block {
+    display: flex;
+    flex-direction: column;
+   align-content: center;
+   border: 0.1px solid rgb(192, 192, 207);
+   margin-right: 10px;
+}
+.first-block h4{
+    margin-left: 10px;
+}
+.first-block p{
+    margin-left: 10px;
+}
+.first-block button{
+    color: white;
+    background-color: red;
+    width: 100px;
+    height: 30px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    border: none;
+}
+.second-block {
+    display: flex;
+    flex-direction: column;
+   align-content: center;
+   border: 0.1px solid rgb(192, 192, 207);
+   margin-right: 10px;
+}
+.second-block h4{
+    margin-left: 10px;
+}
+.second-block p{
+    margin-left: 10px;
+}
+.second-block button{
+    color: white;
+    background-color: red;
+    width: 100px;
+    height: 30px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    border: none;
+}
+.third-block {
+    display: flex;
+    flex-direction: column;
+   align-content: center;
+   border: 0.1px solid rgb(192, 192, 207);
+   margin-right: 10px;
+}
+.third-block h4{
+    margin-left: 10px;
+}
+.third-block p{
+    margin-left: 10px;
+}
+.third-block button{
+    color: white;
+    background-color: red;
+    width: 100px;
+    height: 30px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    border: none;
+}
+.fourth-block {
+    display: flex;
+    flex-direction: column;
+   align-content: center;
+   border: 0.1px solid rgb(192, 192, 207);
+   margin-right: 10px;
+}
+.fourth-block h4{
+    margin-left: 10px;
+}
+.fourth-block p{
+    margin-left: 10px;
+}
+.fourth-block button{
+    color: white;
+    background-color: red;
+    width: 100px;
+    height: 30px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    border: none;
+}
